@@ -165,13 +165,11 @@ data/
 - Computational intensity for large-scale networks
 - Time series predictions depend on historical patterns
 
-## 📝 License
-
-This project uses the Yelp Academic Dataset, subject to Yelp's terms and conditions.
 
 ## 👥 Contributors
 
 Project developed as part of academic research in data mining and social network analysis.
+
 
 ## 🔗 References
 
